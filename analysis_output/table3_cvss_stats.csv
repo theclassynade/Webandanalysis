@@ -1,0 +1,8 @@
+platform,mean_score,median_score,std_score,n_scored
+apache_httpd,7.42,7.5,1.51,101
+debian,6.85,7.1,1.68,2484
+iis,7.76,7.5,1.2,9
+nginx,7.01,7.25,1.64,8
+rhel,6.47,6.5,1.51,1062
+ubuntu,6.43,6.5,1.74,722
+windows_server,7.34,7.8,1.1,4867

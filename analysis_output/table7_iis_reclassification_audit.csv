@@ -1,0 +1,14 @@
+cve_id,published_date,cvss_score,cvss_severity,description
+CVE-2020-0645,2020-03-12 16:15:13.487,7.5,HIGH,"A tampering vulnerability exists when Microsoft IIS Server improperly handles malformed request headers, aka 'Microsoft IIS Server Tampering Vulnerability'."
+CVE-2020-1112,2020-05-21 23:15:15.133,8.5,HIGH,"An elevation of privilege vulnerability exists when the Windows Background Intelligent Transfer Service (BITS) IIS module improperly handles uploaded content. An attacker who successfully exploited this vulnerability could upload restricted file types to an IIS-hosted folder.
+To exploit this vulnerability, an attacker would require permissions to upload files via BITS. An attacker could then submit a specially crafted request to upload a file.
+The security update addresses the vulnerability by correcting how Windows BITS validates file names."
+CVE-2020-1255,2020-06-09 20:15:16.770,8.8,HIGH,"An elevation of privilege vulnerability exists when the Windows Background Intelligent Transfer Service (BITS) IIS module improperly handles uploaded content, aka 'Windows Background Intelligent Transfer Service Elevation of Privilege Vulnerability'."
+CVE-2020-1476,2020-08-17 19:15:15.367,5.5,MEDIUM,"An elevation of privilege vulnerability exists when ASP.NET or .NET web applications running on IIS improperly allow access to cached files. An attacker who successfully exploited this vulnerability could gain access to restricted files.
+To exploit this vulnerability, an attacker would need to send a specially crafted request to an affected server.
+The update addresses the vulnerability by changing how ASP.NET and .NET handle requests."
+CVE-2022-22025,2022-07-12 23:15:09.183,7.5,HIGH,Windows Internet Information Services Cachuri Module Denial of Service Vulnerability
+CVE-2022-22040,2022-07-12 23:15:09.867,7.3,HIGH,Internet Information Services Dynamic Compression Module Denial of Service Vulnerability
+CVE-2022-30209,2022-07-12 23:15:11.283,7.4,HIGH,Windows IIS Server Elevation of Privilege Vulnerability
+CVE-2023-36434,2023-10-10 18:15:12.617,9.8,CRITICAL,Windows IIS Server Elevation of Privilege Vulnerability
+CVE-2025-53805,2025-09-09 17:15:51.337,7.5,HIGH,Out-of-bounds read in Windows Internet Information Services allows an unauthorized attacker to deny service over a network.

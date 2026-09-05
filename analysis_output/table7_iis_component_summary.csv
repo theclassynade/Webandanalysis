@@ -1,0 +1,2 @@
+n_records,pct_of_windows_server_bucket,earliest_published,latest_published,severity_HIGH_count,severity_MEDIUM_count,severity_CRITICAL_count,cvss_mean,cvss_median,cvss_std,cvss_n_scored,days_of_risk_mean,days_of_risk_median,n_valid_days_of_risk,pct_forever_day,top_cwe_1,top_cwe_2,top_cwe_3
+8,0.2021,2020-03-12 16:15:13.487,2023-10-10 18:15:12.617,6,1,1,7.79,7.5,1.27,8,1772.4,1782.0,8,100.0,NVD-CWE-noinfo (7),CWE-434 (1),CWE-307 (1)

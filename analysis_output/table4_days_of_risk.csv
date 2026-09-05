@@ -1,0 +1,8 @@
+platform,mean_days,median_days,n_valid,pct_forever_day,pct_excluded_insufficient_data
+apache_httpd,940.5,803.0,101,62.38,0.0
+debian,1541.0,1925.0,2484,83.74,0.0
+iis,1606.6,1435.0,9,88.89,0.0
+nginx,1472.1,1441.0,8,100.0,0.0
+rhel,1109.2,1071.0,1062,79.47,0.0
+ubuntu,1977.9,2183.0,722,97.09,0.0
+windows_server,1064.9,1008.0,4867,73.54,0.0
